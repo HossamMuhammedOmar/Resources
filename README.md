@@ -41,4 +41,16 @@
     <h2>illustrations</h2>
   </li>
 </ul>
+
+<ul>
+  <li>
+    <h2>Logo Makers</h2>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <h2>Articles</h2>
+  </li>
+</ul>
 ### 
