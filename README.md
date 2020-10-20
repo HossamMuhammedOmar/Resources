@@ -30,5 +30,15 @@
   </li>
 </ul>
 
+<ul>
+  <li>
+    <h2>Icons</h2>
+  </li>
+</ul>
 
+<ul>
+  <li>
+    <h2>illustrations</h2>
+  </li>
+</ul>
 ### 
