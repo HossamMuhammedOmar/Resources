@@ -53,4 +53,11 @@
     <h2>Articles</h2>
   </li>
 </ul>
+
+<ul>
+  <li>
+    <h2>Inspiration</h2>
+  </li>
+</ul>
+
 ### 
