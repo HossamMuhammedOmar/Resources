@@ -24,11 +24,17 @@
 
 <img src='Images/fonts.gif' width='300px'>
 
+<br/>
+<br/>
+<br/>
+
 <ul>
   <li>
     <h2>Colors</h2>
   </li>
 </ul>
+
+<img src='Images/colors.png' width='300px'>
 
 <ul>
   <li>
