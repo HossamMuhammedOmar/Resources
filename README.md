@@ -85,6 +85,8 @@
   </li>
 </ul>
 
+<img src='Images/illustrations.png' width='300px'>
+
 <br/>
 <br/>
 <br/>
