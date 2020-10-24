@@ -55,6 +55,8 @@
   </li>
 </ul>
 
+<img src='Images/videos.png' width='300px'>
+
 <br/>
 <br/>
 <br/>
