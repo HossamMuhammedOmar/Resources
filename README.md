@@ -36,6 +36,10 @@
 
 <img src='Images/colors.png' width='300px'>
 
+<br/>
+<br/>
+<br/>
+
 <ul>
   <li>
     <h2>Images</h2>
