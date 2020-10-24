@@ -111,6 +111,8 @@
   </li>
 </ul>
 
+<img src='Images/logo.png' width='300px'>
+
 <br/>
 <br/>
 <br/>
@@ -121,6 +123,8 @@
     <h2>Inspiration</h2>
   </li>
 </ul>
+
+<img src='Images/logo.png' width='300px'>
 
 <br/>
 <br/>
