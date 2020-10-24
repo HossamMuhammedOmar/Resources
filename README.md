@@ -72,6 +72,8 @@
   </li>
 </ul>
 
+<img src='Images/icons.jpg' width='300px'>
+
 <br/>
 <br/>
 <br/>
