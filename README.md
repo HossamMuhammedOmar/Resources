@@ -111,7 +111,7 @@
   </li>
 </ul>
 
-<img src='Images/logo.png' width='300px'>
+<img src='Images/Articles.png' width='300px'>
 
 <br/>
 <br/>
