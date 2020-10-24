@@ -98,6 +98,8 @@
   </li>
 </ul>
 
+<img src='Images/logo.png' width='300px'>
+
 <br/>
 <br/>
 <br/>
