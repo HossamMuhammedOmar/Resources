@@ -42,6 +42,8 @@
   </li>
 </ul>
 
+<img src='Images/images.jpg' width='300px'>
+
 <br/>
 <br/>
 <br/>
