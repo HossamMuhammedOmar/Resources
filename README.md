@@ -28,11 +28,7 @@
 <br/>
 <br/>
 
-<ul>
-  <li>
-    <h2>Images</h2>
-  </li>
-</ul>
+<h2>Images</h2>
 
 <img src='Images/images.jpg' width='300px'>
 
