@@ -4,11 +4,9 @@
 <br/>
 <br/>
 
-<ul>
-  <li>
-    <h2>Tools</h2>
-  </li>
-</ul>
+
+<h2>Tools</h2>
+
 
 <img src='Images/tools.jpg' width='300px'>
 
