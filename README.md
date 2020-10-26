@@ -4,9 +4,7 @@
 <br/>
 <br/>
 
-
 <h2>Tools</h2>
-
 
 <img src='Images/tools.jpg' width='300px'>
 
@@ -14,11 +12,7 @@
 <br/>
 <br/>
 
-<ul>
-  <li>
-    <h2>Fonts</h2>
-  </li>
-</ul>
+<h2>Fonts</h2>
 
 <img src='Images/fonts.gif' width='300px'>
 
