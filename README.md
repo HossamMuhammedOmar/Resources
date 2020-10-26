@@ -36,12 +36,7 @@
 <br/>
 <br/>
 
-
-<ul>
-  <li>
-    <h2>Videos</h2>
-  </li>
-</ul>
+<h2>Videos</h2>
 
 <img src='Images/videos.png' width='300px'>
 
