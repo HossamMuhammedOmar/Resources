@@ -44,12 +44,7 @@
 <br/>
 <br/>
 
-
-<ul>
-  <li>
-    <h2>Icons</h2>
-  </li>
-</ul>
+<h2>Icons</h2>
 
 <img src='Images/icons.jpg' width='300px'>
 
