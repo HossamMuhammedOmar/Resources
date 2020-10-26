@@ -20,11 +20,7 @@
 <br/>
 <br/>
 
-<ul>
-  <li>
-    <h2>Colors</h2>
-  </li>
-</ul>
+<h2>Colors</h2>
 
 <img src='Images/colors.png' width='300px'>
 
